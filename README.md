@@ -18,12 +18,6 @@ Payment method: For example, cash or card.
 Ordering method: For example, ordering directly online, phone call, through Uber Eats or through another platform.
 Number of items: How many items are included in each order.
 
-Processing Sketch
-
-I will use Processing to create a visualisation  of my collected data. I plan to experiment with colours, shapes and sizes to represent different ordering methods, payment methods, delivery or collection, and the number of items ordered.
-
-My aim is to make the data easy to understand and identify patterns in Chinese takeaway ordering habits.
-
 Files:
 
 README.md — information about my project.
