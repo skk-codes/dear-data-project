@@ -22,8 +22,7 @@ Files:
 
 README.md — information about my project.
 data collection.csv — my collected data in CSV format.
-dear data collection.xlsx - my collected data in spreadsheet
-
+dear data collection.xlsx - my collected data in spreadsheet.
 Progress:
 
 I have started collecting my data in spreadsheet and started to uploaded data as CSV file to GitHub. 
