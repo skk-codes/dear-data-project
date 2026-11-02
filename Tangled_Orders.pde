@@ -5,7 +5,7 @@ void setup() {
 
 // Background colour
 color backgroundColour = color(255, 241, 230);  
-// Category colours
+// Platform colours
 color personColour = color(254, 227, 121);      
 color websiteColour = color(250, 250, 208);   
 color phoneColour = color(158, 107, 23);        
