@@ -15,7 +15,7 @@ The information I am collecting includes:
 
 Order type: Delivery or collection.
 Payment method: For example, cash or card.
-Ordering method: For example, ordering directly online, phone call, through Uber Eats or through another platform.
+Ordering method: For example, ordering from website, phone call, through Uber Eats or through another platform.
 Number of items: How many items are included in each order.
 
 Files:
