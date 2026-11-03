@@ -23,6 +23,8 @@ Files:
 README.md — information about my project.
 data collection.csv — my collected data in CSV format.
 dear data collection.xlsx - my collected data in spreadsheet.
+Tangled_Orders.pde - my sketch for dear data
+
 Progress:
 
-I have started collecting my data in spreadsheet and started to uploaded data as CSV file to GitHub. 
+I have started collecting my data in spreadsheet and started to uploaded data as CSV file to GitHub and started sketch on processing with background and what color I am going to use.
